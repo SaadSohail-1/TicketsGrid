@@ -17,7 +17,7 @@ function BookingPage() {
 
   return (
     <div className='min-h-screen bg-gray-900 flex flex-col items-center justify-center p-4'>
-      <h1 className='text-3xl text-white font-bold mb-8'>TicketsGrid MVP</h1>
+      <h1 className='text-3xl text-white font-bold mb-8'>TicketsGrid</h1>
       <div className='flex items-center justify-between gap-32'>
         <TheaterGrid />
         {/* <Link to={"/summary"} className='bg-white p-3 mt-5 rounded-lg'>Go to Order Summary</Link> */}
