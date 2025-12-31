@@ -24,3 +24,12 @@ This project demonstrates complex "visual logic" handling, ensuring high perform
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/yourusername/ticketsgrid.git](https://github.com/yourusername/ticketsgrid.git)
+
+2. **Install dependencies:**
+   ```bash
+   cd ticketsgrid
+   npm install
+
+3. **Run the development server:**
+    ```bash
+    npm run dev
